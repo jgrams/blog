@@ -9,6 +9,7 @@ summary: An evolving list of places that are pleasant to visit on the internet.
 - [Julia Evans](https://jvns.ca/)
 - [Josh Cormeau](https://www.joshwcomeau.com/)
 - [Victoria Drake](https://victoria.dev/)
+- [Wes Bos](https://wesbos.com/)
 
 ### Chicago Organizations
 
@@ -19,7 +20,13 @@ summary: An evolving list of places that are pleasant to visit on the internet.
 - [Tough Pixels](https://toughpixels.com/)
 - [CSS Things](https://cssthings.com/)
 
+### My Friends My Joys
+
 ### Excellent Design
 
 - [Remix](https://remix.run/)
 - [Shine Registry](https://www.shineregistry.com/about)
+
+### Resources
+
+- [SVG Icons](https://iconsvg.xyz/)
