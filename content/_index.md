@@ -9,7 +9,7 @@ title: Welcome, welcome!
 
 <h2>Welcome to this blog.{{< underline-squiggle >}}</h2>
 
-#### Make yourself at <span class="home">home</span> with some recent entries.
+### Make yourself at <span class="home">home</span> with some recent entries.
 
 {{< recent-entries >}}
 </div>
