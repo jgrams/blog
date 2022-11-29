@@ -1,4 +1,3 @@
 ---
-title: My Feelings About The Situations
+title: My Feelings About These Situations
 ---
-

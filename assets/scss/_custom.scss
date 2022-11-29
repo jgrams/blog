@@ -3,6 +3,7 @@
     --tiny-gap: .3rem;
     --sm-gap: 1rem;
     --md-gap: 2rem;
+    --lg-gap: 4rem;
     --sm-width: 15ch;
     --md-width: 45ch;
     --lg-width: 65ch;
@@ -13,10 +14,11 @@
     --outline: #ec809e;
     --accent: #d2386c;
     --preview: #3cadd4;
-    --text: rgba(0,0,0,.85);
+    --text: rgba(0, 0, 0, .85);
     /* Animation Timings */
-    --inital-delay: .4s;
-    --initial-fade: 3s;
+    --inital-delay: .3s;
+    --initial-fade: 2.5s;
+    --dazzling-fade: .9s;
 }
 
 body {
@@ -41,7 +43,7 @@ body {
 }
 
 .grid-2 {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-template-columns: repeat(1, minmax(0, 1fr));
 }
 
 .wide-icon {
@@ -74,26 +76,28 @@ body {
 }
 
 .slow-speed-build {
-    animation-duration: var(--initial-delay);
+    animation-duration: var(--dazzling-fade);
     animation-delay: calc(var(--initial-fade)*1.5);
     color: var(--accent);
 }
 
 @keyframes fade-in {
     0% {
-      opacity:0;
+        opacity: 0;
     }
+
     100% {
-      opacity:1;
+        opacity: 1;
     }
 }
 
 @keyframes fade-color {
     0% {
-      opacity:0;
+        opacity: 0;
     }
+
     100% {
-      opacity:1;
+        opacity: 1;
     }
 }
 
@@ -134,21 +138,82 @@ body {
     margin: auto;
 }
 
-.preview-item {
-    margin: var(--sm-gap);
+.sm-padding {
     padding: var(--sm-gap);
+}
+
+.md-padding {
+    margin: var(--sm-gap);
+}
+
+.preview-item {
     background-color: var(--preview);
     border-radius: var(--tiny-gap);
     box-shadow: .3rem .3rem var(--outline);
 }
 
+.preview-item a:hover h6 {
+    text-decoration: underline;
+}
+
+.preview-item a:hover .preview-more {
+    text-decoration: underline;
+}
+
+.preview-item a {
+    text-decoration: none;
+    color: var(--text);
+}
+
+.casual-border {
+    border: 2px solid var(--text);
+}
+
 .preview-item h6 {
     margin-top: 0;
     margin-bottom: var(--md-gap);
+    color: var(--text);
 }
 
-.small-more {
+.preview-summary {
+    color: var(--text);
+    text-decoration: none;
+}
+
+.preview-more {
     margin-top: var(--sm-gap);
     font-size: smaller;
 }
-  
+
+@media screen and (min-width: 640px) {
+    .grid-2 {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+}
+
+/* Probably generally useful */
+
+.justify-items-center {
+    justify-items: center;
+}
+
+.auto {
+    margin: auto;
+}
+
+.lg-padding {
+    padding: var(--lg-gap) 
+}
+
+.md-contain {
+    max-width: var(--md-width);
+    margin: auto;
+}
+
+.sm-padding {
+    padding: var(--sm-gap);
+}
+
+.md-padding {
+    margin: var(--sm-gap);
+}

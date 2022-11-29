@@ -1,5 +1,5 @@
 ---
-title: Your Beautiful Site
+title: Welcome, welcome!
 ---
 ## Oh, <span class="fade-in fast-speed start-invis">Hello!</span>
 
