@@ -16,9 +16,9 @@
     --preview: #3cadd4;
     --text: rgba(0, 0, 0, .85);
     /* Animation Timings */
-    --inital-delay: .3s;
-    --initial-fade: 2.5s;
-    --dazzling-fade: .9s;
+    --inital-delay: .2s;
+    --initial-fade: 1.1s;
+    --dazzling-fade: .3s;
 }
 
 body {
@@ -153,14 +153,18 @@ body {
 .preview-item {
     background-color: var(--preview);
     border-radius: var(--tiny-gap);
-    box-shadow: .3rem .3rem var(--outline);
+    box-shadow: var(--tiny-gap) var(--tiny-gap) var(--outline);
 }
 
-.preview-item a:hover .preview-title {
+.preview-item:hover, .preview-item:focus-within {
+    box-shadow: var(--tiny-gap) var(--tiny-gap) var(--accent);
+}
+
+.preview-item a:hover .preview-title, .preview-item a:focus .preview-title {
     text-decoration: underline;
 }
 
-.preview-item a:hover .preview-more {
+.preview-item a:hover .preview-more, .preview-item a:focus .preview-more {
     text-decoration: underline;
 }
 
@@ -221,4 +225,16 @@ body {
 
 .md-padding {
     margin: var(--sm-gap);
+}
+
+.footer-link svg {
+    height: var(--lg-gap);
+    stroke: var(--text);
+    stroke-width: 2;
+    stroke-linecap: round;
+    fill: none;
+}
+
+.footer-link:hover svg, .footer-link:focus svg {
+    stroke: var(--accent);
 }
