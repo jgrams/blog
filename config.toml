@@ -1,6 +1,6 @@
 baseURL = "https://blog.gramila.dev/"
 languageCode = "en-us"
-title = "John G Blog"
+title = "John G's Blog"
 theme = "base"
 [markup]
   [markup.goldmark]
