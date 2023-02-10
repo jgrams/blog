@@ -1,12 +1,14 @@
 ---
-title: "I Vote To Make It Better"
+title: "I Vote To Make It Better: Politics as Usual"
 date: 2023-1-22T12:05:58-05:00
-summary: Voting is the primary marker of civic engagement in American democracy. That's not good."
+summary: Voting is the primary marker of civic engagement in American democracy, but there are much more effective ways to create social feelings.
 draft: true
 ---
 
-I was at a party, talking about who should be Chicago's next mayor. The issue was safety on public transportation. In any public space people should be able to feel safe. 
+I was at a party, talking about how Chicago's mayor should handle safety on public transportation. I think people should generally feel safe in any public space.
 
-Thanks to the [Chicago Open Data portal](https://data.cityofchicago.org/), I can look all the [crimes reported in the city](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2/data) and filter by location. Crime on the CTA is clearly decreasing, but 236,000 crimes in 2022 is still a lot. The [daily ridership](https://data.cityofchicago.org/Transportation/CTA-Ridership-Daily-Boarding-Totals/6iiy-9s97/data) of the CTA for 2022 isn't yet fully available, but in 2019  one crime happened every 1,743 CTA rides.
+Thanks to the [Chicago Open Data portal](https://data.cityofchicago.org/), anyone can see every [crime reported in the city](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2/data) and filter by location. Crime on the CTA has generally decreases from 2001, but 3,651 crimes in 2022 is too many and there were about 25% more crimes increased about 25% over 2021. 
 
-Being statistically safer compared to some point in the past is not the same as feeling safe, and we can demand better. The problem is the effectiveness of public safety policies must be measured in statistical terms. As humans, there is a fundamental disconnect between our perception of the world and the world. 
+The [daily ridership](https://data.cityofchicago.org/Transportation/CTA-Ridership-Daily-Boarding-Totals/6iiy-9s97/data) of the CTA doesn't have November and December numbers yet, but for the first 10 months of 2022 there were 3,409 crimes over 203,743,293 rides. That's one crime for every 59,766 CTA trips. For comparison, 
+
+Being statistically safer compared to some point in the past is not the same as feeling safe, and we can demand better. The proposed solutions from Chicago's mayoral candidates range form putting more police officers on public transportation to putting . It's extremely unpopular and doesn't make people like you to say "everyone needs to be responsible for the safety of those around them."
