@@ -22,6 +22,9 @@ summary: An evolving list of places that are pleasant to visit on the internet.
 
 ### My Friends My Joys
 
+- [Mark Johnson](https://startwiththeheart.art/)
+- [Katie McVay](https://www.katiemcvay.com/)
+
 ### Excellent Design
 
 - [Remix](https://remix.run/)

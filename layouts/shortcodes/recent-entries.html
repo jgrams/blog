@@ -1,5 +1,5 @@
 <div class="text-left grid grid-2 grid-mobile-stack md-gap">
-    {{ range .Page.Paginator.Pages }}
+    {{ range .Page.Paginator.Pages.ByDate }}
         {{ .Render "preview" }}
     {{ end }}
 </div>
