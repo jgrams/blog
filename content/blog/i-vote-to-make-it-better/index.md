@@ -1,6 +1,6 @@
 ---
 title: "I Vote To Make It Better: Politics as Usual"
-date: 2023-1-22T12:05:58-05:00
+date: 2023-2-23T12:05:58-05:00
 summary: Voting has long been a primary marker of civic engagement, but there are much more effective ways to create social security.
 ---
 
