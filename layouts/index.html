@@ -1,19 +1,5 @@
 {{ define "main" }}
-    {{ partial "color-bar" . }}
     <div class="container">
         {{ .Content }}
     </div>
-{{ end }}
-{{ define "script" }}
-<script>
-    function removeItem() {
-        if (window.localStorage.getItem("my-blog-visit-time")) {
-            document.getElementById("new-visitor").remove();
-        } else {
-            document.getElementById("welcome-back").remove()
-            window.localStorage.setItem("my-blog-visit-time", Date.now())
-        }
-    };
-    removeItem();
-</script>
 {{ end }}

@@ -43,6 +43,10 @@ body {
     gap: var(--md-gap);
 }
 
+.flex-column {
+    flex-direction: column;
+}
+
 .grid-1 {
     grid-template-columns: repeat(1, minmax(0, 1fr));
 }
@@ -238,4 +242,16 @@ body {
 
 .footer-link:hover svg, .footer-link:focus svg {
     stroke: var(--accent);
+}
+
+.larger-text {
+    font-size: larger;
+}
+
+.grid {
+    display: grid;
+}
+
+.g2 {
+
 }

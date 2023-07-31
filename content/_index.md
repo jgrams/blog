@@ -1,31 +1,13 @@
 ---
-title: Welcome, welcome!
+title: My Little Website!
+description: Welcome! I'm a developer and writer trying to build a bit more joy for myself and others.
 ---
-<span id="new-visitor">
 
-## Oh, <span class="fade-in fast-speed start-invis">Hello!</span>
+## Hi,
+### I'm John!
 
-### Sorry, <span class="fade-in medium-speed start-invis">I was momentarily blinded by your </span><span class="fade-in slow-speed-build start-invis highlight">dazzling</span><span class="fade-in medium-speed start-invis"> personality.</span>
+I build custom applications and develop technical content.
 
-<div class="text-center">
+I love making websites for artists and creative folks, and creating documentation to help people start using products.
 
-## Welcome to this blog.{{< underline-squiggle >}}
-
-### Make yourself at <span class="home">home</span> with some recent entries.
-</div>
-</span>
-
-<span id="welcome-back">
-
-<div class="text-center">
-
-## <span class="fade-in fast-speed start-invis">Welcome back!</span>
-
-
-### <span class="fade-in medium-speed start-invis">Thanks for being <span class="fade-in slow-speed-build start-invis highlight">you.</span></span>{{< underline-squiggle >}}
-
-#### Here's our recent posts!
-</div>
-</span>
-
-{{< recent-entries >}}
+I listen carefully, then build websites, apps, and content that solve specific problems.

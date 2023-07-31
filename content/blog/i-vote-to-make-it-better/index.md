@@ -1,6 +1,6 @@
 ---
 title: "I Vote To Make It Better: Politics as Usual"
-date: 2023-2-23T12:05:58-05:00
+date: 2023-02-23T12:05:58-05:00
 summary: Voting has long been a primary marker of civic engagement, but there are much more effective ways to create social security.
 tags: politics, ethics
 ---
@@ -22,4 +22,4 @@ Why do people rarely feel unsafe in their cars but very frequently feel unsafe o
 That's a part of what makes voting feel so powerful. It's a private choice transmuted into public consensus. If the right candidate is elected I feel the balm of the world agreeing with my personal vision. If the wrong person is elected, I can sink a little deeper into knowing that strangers don't have my back.
 
 ## The Solution: More Danger
-There is a much more direct and effective way to make the CTA feel safe. In an unsafe situation, I can raise my hand and say "this is not acceptable". It's almost stupid, who would accept [more personal risk](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/safety/adverse-events.html) to reduce the risk of a stranger? I promise I'll try.
+There is a much more direct and effective way to make the CTA feel safe. In an unsafe situation, I can raise my hand and say "this is not acceptable". Plenty of people think it's stupid, who would accept [more personal risk](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/safety/adverse-events.html) to reduce risk for a stranger? I promise I'll try.
