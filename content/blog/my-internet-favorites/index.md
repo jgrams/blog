@@ -4,6 +4,17 @@ date: 2022-10-29T13:31:33-06:00
 summary: An evolving list of places that are pleasant to visit on the internet.
 ---
 
+### My Things
+
+- [Tough Pixels](https://toughpixels.com/)
+- [CSS Things](https://cssthings.com/)
+
+### My Friends
+
+- [Mark Johnson](https://startwiththeheart.art/)
+- [Katie McVay](https://www.katiemcvay.com/)
+- [Asher Perlman](https://ashermaxperlman.com/)
+
 ### Technical Information
 
 - [Julia Evans](https://jvns.ca/)
@@ -11,21 +22,15 @@ summary: An evolving list of places that are pleasant to visit on the internet.
 - [Victoria Drake](https://victoria.dev/)
 - [Wes Bos](https://wesbos.com/)
 
-### Chicago Organizations
+### Chicago Charities
 
 - [St. Leonards Ministries](https://slministries.org/about/about-saint-leonards/)
 
-### My Favorite My Things
+### Chicago Businesses
+- [Arc Academy](https://www.arcacademy.com/)
+- [Paramount Fitness](https://www.paramountchicago.com/)
 
-- [Tough Pixels](https://toughpixels.com/)
-- [CSS Things](https://cssthings.com/)
-
-### My Friends My Joys
-
-- [Mark Johnson](https://startwiththeheart.art/)
-- [Katie McVay](https://www.katiemcvay.com/)
-
-### Excellent Design
+### Excellent Design Examples
 
 - [Remix](https://remix.run/)
 - [Shine Registry](https://www.shineregistry.com/about)
