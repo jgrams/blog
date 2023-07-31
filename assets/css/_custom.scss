@@ -30,7 +30,7 @@ body {
 .container {
     text-align: center;
     max-width: var(--lg-width);
-    padding: 0 1rem;
+    padding: 0 var(--sm-gap);
 }
 
 .slim-container {
