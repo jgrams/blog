@@ -1,19 +1,22 @@
 <footer>
-    <div class="container slim-container grid sm-gap grid-2 lg-padding justify-items-center auto">
-        <a href="/" class="footer-link">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-                <title>Home Page Link</title>
-                <path d="M20 9v11a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V9"/>
-                <path d="M9 22V12h6v10M2 10.6L12 2l10 8.6"/>
-            </svg>
-        </a>
-        <a href="/blog/index.xml" target="_blank" class="footer-link">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-                <title>RSS Feed Link</title>
-                <path d="M4 11a9 9 0 0 1 9 9"></path>
-                <path d="M4 4a16 16 0 0 1 16 16"></path>
-                <circle cx="5" cy="19" r="1"></circle>
-            </svg>
-        </a>
-    </div>
+  {{ partial "underline-squiggle" . }}
+  <div
+    class="container slim-container grid sm-gap grid-2 lg-padding justify-items-center auto"
+  >
+    <a href="/blog" class="footer-link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+        <title>Home Page Link</title>
+        <path d="M20 9v11a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V9" />
+        <path d="M9 22V12h6v10M2 10.6L12 2l10 8.6" />
+      </svg>
+    </a>
+    <a href="/blog/index.xml" target="_blank" class="footer-link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+        <title>RSS Feed Link</title>
+        <path d="M4 11a9 9 0 0 1 9 9"></path>
+        <path d="M4 4a16 16 0 0 1 16 16"></path>
+        <circle cx="5" cy="19" r="1"></circle>
+      </svg>
+    </a>
+  </div>
 </footer>
