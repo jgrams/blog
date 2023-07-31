@@ -29,12 +29,17 @@ body {
 
 .container {
     text-align: center;
-    max-width: var(--lg-width);
     padding: 0 var(--sm-gap);
 }
 
 .slim-container {
     max-width: var(--md-width);
+    margin: auto;
+}
+
+.wide-container {
+    max-width: var(--lg-width);
+    margin: auto;
 }
 
 .grid {
