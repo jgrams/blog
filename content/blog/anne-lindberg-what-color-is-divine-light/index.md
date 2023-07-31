@@ -2,7 +2,6 @@
 title: "Anne Lindberg: What Color Is Divine Light"
 date: 2023-07-31T10:04:06-05:00
 summary: There is no single color of divine light, it is instead a feeling of being embraced by shifting, water-cast color, which the piece captures well.
-image: lying-under-the-art.jpg
 tags: art
 ---
 

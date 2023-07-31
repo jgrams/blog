@@ -1,9 +1,10 @@
 ---
-title: My Feelings About The Situation
+title: My Feelings About It
+description: Welcome! I'm a developer and writer trying to build a bit more joy for myself and others.
 ---
 <span id="new-visitor">
 
-## Oh, <span class="fade-in fast-speed start-invis">Hello!</span>
+## Oh, <span class="fade-in fast-speed start-invis">Hello!</span>s
 
 ### Sorry, <span class="fade-in medium-speed start-invis">I was momentarily blinded by your </span><span class="fade-in slow-speed-build start-invis highlight">dazzling</span><span class="fade-in medium-speed start-invis larger-text"> personality.</span>
 

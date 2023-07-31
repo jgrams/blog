@@ -8,7 +8,8 @@ theme = "base"
       unsafe = true
 [params]
   description = "Hello internet wanderer. We pray you find entertainment, then peace."
-  title = "John G Blog"
+  title = "John G's Blog"
   author = "John Gramila"
   imageSizes = "1280 768 640 320"
   imageFormats = "webp jpeg"
+  images = ['preview_image.jpg']
