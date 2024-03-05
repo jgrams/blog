@@ -2,6 +2,8 @@
 title: "Asking Your Server's Favorite"
 date: 2022-11-01T12:05:58-05:00
 summary: "Asking someone's favorite is great conversation, except when they're selling stuff."
+tags: 
+ - people
 ---
 
 Asking someone's favorite is the greatest conversational trick of all time. They'll blow out their cheeks, shift around and think for a bit, then answer very earnestly. 

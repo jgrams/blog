@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on John G&#39;s Blog</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blogs on John G&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 Jul 2023 10:04:06 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anne Lindberg: What Color Is Divine Light</title>
+      <link>http://localhost:1313/blog/anne-lindberg-what-color-is-divine-light/</link>
+      <pubDate>Mon, 31 Jul 2023 10:04:06 -0500</pubDate>
+      <guid>http://localhost:1313/blog/anne-lindberg-what-color-is-divine-light/</guid>
+      <description>There is no single color of divine light, it is instead a feeling of being embraced by shifting, water-cast color, which the piece captures well.</description>
+    </item>
+    <item>
+      <title>I Vote To Make It Better: Politics as Usual</title>
+      <link>http://localhost:1313/blog/i-vote-to-make-it-better/</link>
+      <pubDate>Thu, 23 Feb 2023 12:05:58 -0500</pubDate>
+      <guid>http://localhost:1313/blog/i-vote-to-make-it-better/</guid>
+      <description>Voting has long been a primary marker of civic engagement, but there are much more effective ways to create social security.</description>
+    </item>
+    <item>
+      <title>The Merchandise Mart</title>
+      <link>http://localhost:1313/blog/merchandise-mart-chicago/</link>
+      <pubDate>Mon, 26 Dec 2022 12:05:58 -0500</pubDate>
+      <guid>http://localhost:1313/blog/merchandise-mart-chicago/</guid>
+      <description>Chicago&amp;rsquo;s Merchandise Mart was the first ever building with its own zip code. It holds wondrous secrets, like a magnificent tassel store and the most beautiful staircase in the world.</description>
+    </item>
+    <item>
+      <title>Asking Your Server&#39;s Favorite</title>
+      <link>http://localhost:1313/blog/asking-for-favorites/</link>
+      <pubDate>Tue, 01 Nov 2022 12:05:58 -0500</pubDate>
+      <guid>http://localhost:1313/blog/asking-for-favorites/</guid>
+      <description>Asking someone&amp;rsquo;s favorite is great conversation, except when they&amp;rsquo;re selling stuff.</description>
+    </item>
+    <item>
+      <title>My Internet Favorites</title>
+      <link>http://localhost:1313/blog/my-internet-favorites/</link>
+      <pubDate>Sat, 29 Oct 2022 13:31:33 -0600</pubDate>
+      <guid>http://localhost:1313/blog/my-internet-favorites/</guid>
+      <description>An evolving list of places that are pleasant to visit on the internet.</description>
+    </item>
+  </channel>
+</rss>

@@ -4,9 +4,12 @@ date: 2023-03-09T14:56:53-06:00
 draft: true
 summary: Nice little summary for Google and the header.
 image: image.jpg
+tags:
+ - ethics
+ - people
 ---
 
-Marketing is a 321 billion dollar industry aimed at transforming human desire into dollars. Marketing professionals say they're introducing people to efficient ways of satisfying existing desires, but the way people repeatedly learn to ignore marketing [tactics](https://www.nngroup.com/articles/banner-blindness-old-and-new-findings/) is a strong indicator the industry is engaged in an extended cold war aimed at stealing attention.
+Marketing is a 321 billion dollar industry aimed at transforming human desire into dollars. Marketing professionals say they're introducing people to efficient ways of satisfying existing desires, but the way people repeatedly learn to ignore marketing [tactics](https://www.nngroup.com/articles/banner-blindness-old-and-new-findings/) is a strong indicator the industry is engaged in an extended struggle for attention.
 
 In 1937 Elmer Wheeler, America's greatest salesman, debuted "Don’t Sell the Steak—Sell the Sizzle!", ending the era of letting clients know how much something cost and what features it has, and kickstarting the era of selling dreams.
 

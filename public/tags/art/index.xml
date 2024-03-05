@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Art on John G&#39;s Blog</title>
+    <link>http://localhost:1313/tags/art/</link>
+    <description>Recent content in Art on John G&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 Jul 2023 10:04:06 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/art/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anne Lindberg: What Color Is Divine Light</title>
+      <link>http://localhost:1313/blog/anne-lindberg-what-color-is-divine-light/</link>
+      <pubDate>Mon, 31 Jul 2023 10:04:06 -0500</pubDate>
+      <guid>http://localhost:1313/blog/anne-lindberg-what-color-is-divine-light/</guid>
+      <description>There is no single color of divine light, it is instead a feeling of being embraced by shifting, water-cast color, which the piece captures well.</description>
+    </item>
+  </channel>
+</rss>

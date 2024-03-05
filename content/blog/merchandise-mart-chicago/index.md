@@ -2,7 +2,9 @@
 title: "The Merchandise Mart"
 date: 2022-12-26T12:05:58-05:00
 summary: "Chicago's Merchandise Mart was the first ever building with its own zip code. It holds wondrous secrets, like a magnificent tassel store and the most beautiful staircase in the world."
-tags: chicago
+tags: 
+ - chicago
+ - buildings
 ---
 
 The Merchandise Mart was the world's largest building when it opened in 1930. The first building with its own zip code was originally designed to centralize all 13 Marshall Field and Company warehouses in Chicago. It opened 6 months into the Great Depression and immediately started losing millions of dollars a year. 

@@ -25,6 +25,8 @@ body {
     background-color: var(--background);
     color: var(--text);
     overflow-wrap: break-word;
+    font-size: 18px/1.5;
+    text-rendering: optimizeLegibility;
 }
 
 .container {
@@ -125,6 +127,10 @@ body {
     width: 100%;
 }
 
+.full-height {
+    height: 100%
+}
+
 .color-bar {
     fill: var(--banner);
     position: absolute;
@@ -167,13 +173,16 @@ body {
 }
 
 .preview-item {
+    --shadow-radius: .75rem;
     background-color: var(--preview);
-    border-radius: var(--tiny-gap);
-    box-shadow: var(--tiny-gap) var(--tiny-gap) var(--outline);
+    border-radius: var(--shadow-radius);
+    box-shadow: var(--shadow-radius) var(--shadow-radius) var(--outline);
+    border: 2px solid var(--text);
 }
 
 .preview-item:hover, .preview-item:focus-within {
-    box-shadow: var(--tiny-gap) var(--tiny-gap) var(--accent);
+    border-width: 3px;
+    box-shadow: var(--shadow-radius) var(--shadow-radius) var(--accent);
 }
 
 .preview-item a:hover .preview-title, .preview-item a:focus .preview-title {
@@ -187,10 +196,6 @@ body {
 .preview-item a {
     text-decoration: none;
     color: var(--text);
-}
-
-.casual-border {
-    border: 2px solid var(--text);
 }
 
 .preview-title {
@@ -263,6 +268,18 @@ body {
     display: grid;
 }
 
-.g2 {
+.gap-xsm {
+    gap: var(--tiny-gap);
+}
 
+.tag-pill {
+    border: 2px solid var(--text);
+    background-color: var(--accent);
+    border-radius: 1rem;
+    padding: .4rem;
+}
+
+.tag-pill:hover, .tag-pill:focus {
+    border: 3px solid var(--text);
+    border-radius: 1rem;
 }

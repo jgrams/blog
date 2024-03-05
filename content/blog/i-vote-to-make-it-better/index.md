@@ -2,7 +2,9 @@
 title: "I Vote To Make It Better: Politics as Usual"
 date: 2023-02-23T12:05:58-05:00
 summary: Voting has long been a primary marker of civic engagement, but there are much more effective ways to create social security.
-tags: politics, ethics
+tags: 
+ - politics
+ - ethics
 ---
 
 I was talking to a person who had come to America from somewhere with lots of violence. I asked what they liked about this country, and they said "no one gets hung from the light poles here". That shocked me enough to jolt my gratitude free. 

@@ -1,0 +1,11 @@
+<article class="preview-item sm-margin sm-padding">
+    <a href="{{ .RelPermalink }}">
+        <h4 class="preview-title">{{ .Title }}</h4>
+        <div class="preview-summary">{{.Summary}}</div>
+        <div class="flex preview-more gap-xsm">
+            {{ range .GetTerms "tags" }}
+                <a class="tag-pill" href="{{.RelPermalink}}">{{.LinkTitle}}</a>
+            {{ end }}
+        </div>
+    </a>
+</article>

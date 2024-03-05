@@ -2,7 +2,8 @@
 title: "Anne Lindberg: What Color Is Divine Light"
 date: 2023-07-31T10:04:06-05:00
 summary: There is no single color of divine light, it is instead a feeling of being embraced by shifting, water-cast color, which the piece captures well.
-tags: art
+tags: 
+ - art
 ---
 
 [Anne Lindberg](https://www.annelindberg.com/) was born in 1962, works in Ancramdale, New York, and makes art using many materials, with a focus on paint and thread. This piece is made from thread and staples in response to an essay by Patrik Reuterswärd about how color can approximate the divine plane peeking into our world.

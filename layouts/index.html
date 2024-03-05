@@ -2,6 +2,7 @@
     {{ partial "color-bar" . }}
     <div class="container wide-container">
         {{ .Content }}
+        {{ partial "preview-blog-posts.html" . }}
     </div>
 {{ end }}
 {{ define "script" }}

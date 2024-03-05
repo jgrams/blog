@@ -1,0 +1,4 @@
+<div class="text-left grid grid-2 grid-mobile-stack md-gap">
+  {{ range where .Site.RegularPages.ByTitle "Section" "blog" }} {{
+  .Render "preview" }} {{ end }}
+</div>
